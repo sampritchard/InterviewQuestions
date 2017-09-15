@@ -11,3 +11,6 @@
 * Differences between TDD and BDD?
 * Describe the testing pyramid?
 * Most efficient way of finding x in an array?
+* When have you faced the problem of concurrency in JS?
+* How do you make an Object thread safe?
+* Give me an example of when you wrote production code?
